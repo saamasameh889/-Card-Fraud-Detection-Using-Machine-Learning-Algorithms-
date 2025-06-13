@@ -16,6 +16,9 @@ RQ2: Which model balances accuracy and interpretability effectively?
 # Dataset
 We use the IEEE-CIS dataset from Kaggle, containing over 590,000 transaction records, with anonymized features and a binary target indicating fraudulent or legitimate transactions.
 
+Dataset_link:https://www.kaggle.com/c/ieee-fraud-detection/data?select=train_transaction.csv
+
+
 # Related Work
 Previous research has shown high accuracy with models like Random Forest and XGBoost, but most studies neglect interpretability. Our project bridges this gap by integrating XAI tools.
 

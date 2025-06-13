@@ -2,7 +2,7 @@
 
 Credit Card Fraud Detection on IEEE-CIS Dataset: A Comparative and Explainable Machine Learning Approach
 
-#**Abstract**
+##Abstract
 
 This project performs a comparative analysis of several machine learning models applied to the IEEE-CIS Fraud Detection dataset. We explore the efficacy of Logistic Regression, Random Forest, SVM, Decision Tree, Naive Bayes, MLP, and XGBoost in identifying fraudulent transactions in a highly imbalanced dataset. We also incorporate interpretability techniques like SHAP, LIME, PDP, ICE, and PFI to explain and justify model decisions. Our results highlight the effectiveness of ensemble models and the importance of explainable AI in fraud detection.
 
